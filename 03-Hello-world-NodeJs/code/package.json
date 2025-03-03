@@ -1,0 +1,19 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Hello-world-node.js-first-code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Nodejs-course-piysuh.garg"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "sane-aalam",
+  "license": "ISC"
+}
